@@ -1,3 +1,4 @@
+#!/bin/bash
 virsorter run \
   -i assemblies.fna \
   -w virsorter_output \
