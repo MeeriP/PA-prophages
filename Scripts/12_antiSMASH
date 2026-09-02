@@ -4,5 +4,5 @@ antismash \
     --taxon bacteria \
     genome.fna
 
-
-    #The resulting GenBank files were subsequently parsed using the script: gbk_protocluster_parse_1.4.py
+#The resulting GenBank files were subsequently parsed using the script: gbk_protocluster_parse_1.4.py
+#gbk_protocluster_parse_1.4.py input output
