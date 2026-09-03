@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the scripts used for prophage identification, quality control, clustering, taxonomic annotation, antimicrobial resistance gene detection, virulence factor detection, defense system identification, CRISPR analyses, and secondary metabolite analyses described in Diverse prophage populations are associated with phage defense repertoire in Pseudomonas aeruginosa cystic fibrosis isolates.
+This repository contains the scripts used for prophage identification, quality control, clustering, taxonomic annotation, antimicrobial resistance gene detection, virulence factor detection, defense system identification, CRISPR analyses, and secondary metabolite analyses described in "Diverse prophage populations are associated with phage defense repertoire in Pseudomonas aeruginosa cystic fibrosis isolates (DOI: )".
 
 ---
 
